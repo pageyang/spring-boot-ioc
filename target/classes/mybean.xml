@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean id="E" class="com.demo.spring.factory.England" />
+    <bean id="S" class="com.demo.spring.factory.Spain" />
+</beans>
